@@ -1,10 +1,10 @@
 ---
-title: "My 1st post"
-date: 2020-09-15T11:30:03+00:00
+title: "About Me"
+date: 2023-12-18
 weight: 1
-# aliases: ["/first"]
-tags: ["first"]
-author: "Me"
+aliases: ["/about"]
+tags: ["about"]
+author: "Mike Ditton"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
@@ -35,3 +35,5 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+
+## Hello

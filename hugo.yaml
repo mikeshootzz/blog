@@ -1,4 +1,4 @@
-baseURL: "https://mikeditton.ch/"
+baseURL: "https://mikeditton.ch"
 title: Mike Ditton
 paginate: 5
 theme: PaperMod
@@ -19,7 +19,7 @@ params:
   title: ExampleSite
   description: "ExampleSite description"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  author: Mike Ditton
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -77,12 +77,16 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+    - name: mastodon
+      url: "https://fosstodon.org/@mikeshootzz"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/mikeditton/"
+    - name: instagram
+      url: "https://www.instagram.com/mike_shootzz/"
+    - name: gitlab
+      url: "https://gitlab.com/mike_shootzz"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/mikeshootzz"
 
   analytics:
     google:

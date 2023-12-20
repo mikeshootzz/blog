@@ -9,9 +9,8 @@ author: "Mike Ditton"
 showToc: true
 TocOpen: false
 draft: false
-hidemeta: false
+hidemeta: true
 comments: false
-description: "Desc Text."
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false

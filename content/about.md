@@ -24,7 +24,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "<image path/url>" # image path/url
+    image: "<image path/url" # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -34,6 +34,8 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+
+![Me](/images/me.webp)
 
 Hello, my name is Mike Ditton, and I am currently embarking on an exciting journey as a system engineer apprentice within the esteemed IT department at Kanton Aargau. With a passion for technology that has been a driving force in my life from a very young age, I have eagerly embraced the opportunity to dive deep into the world of middleware.
 

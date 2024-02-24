@@ -132,7 +132,7 @@ menu:
       url: /tags/
       weight: 30
 
-      
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:

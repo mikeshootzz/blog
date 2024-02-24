@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mike Ditton</title>
+    <link>https://mikeditton.ch/</link>
+    <description>Recent content on Mike Ditton</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mikeditton.ch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BBBase</title>
+      <link>https://mikeditton.ch/projects/bbbase/</link>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://mikeditton.ch/projects/bbbase/</guid>
+      <description>One of my favorite personal projects so far has been BBBase—a platform that embodies the spirit of collaboration and the open-source ethos, but for the invaluable currency of knowledge. Born out of a desire to foster a culture of sharing and growth among my peers, BBBase serves as a central hub for students at my professional school to exchange insights, resources, and expertise.&#xA;In an age where information is abundant yet fragmented, BBBase stands as a beacon of unity, providing a structured yet flexible environment where knowledge is not just consumed but also contributed.</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>https://mikeditton.ch/about/</link>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://mikeditton.ch/about/</guid>
+      <description>Hello, my name is Mike Ditton, and I am currently embarking on an exciting journey as a system engineer apprentice within the esteemed IT department at Kanton Aargau. With a passion for technology that has been a driving force in my life from a very young age, I have eagerly embraced the opportunity to dive deep into the world of middleware.&#xA;Having been a part of this dynamic field for close to a year now, I&amp;rsquo;ve had the opportunity to contribute significantly to several projects.</description>
+    </item>
+  </channel>
+</rss>

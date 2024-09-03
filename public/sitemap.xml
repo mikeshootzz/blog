@@ -11,13 +11,16 @@
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2023-12-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/</loc>
+    <lastmod>2024-09-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/baseball/</loc>
     <lastmod>2024-02-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/baseball/</loc>
-    <lastmod>2024-02-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2024-02-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
@@ -30,9 +33,6 @@
     <lastmod>2023-12-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/projects/</loc>
-    <lastmod>2023-12-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2023-12-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/about/</loc>

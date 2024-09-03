@@ -7,7 +7,7 @@ tags: ["baseball", "umpire"]
 author: "Mike Ditton"
 showToc: true
 TocOpen: false
-draft: false
+draft: true
 hidemeta: true
 comments: false
 canonicalURL: "https://canonical.url/to/page"

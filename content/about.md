@@ -35,11 +35,11 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-![Me](/images/me.webp)
+<img src="/images/me.png" alt="Me" style="width: 50%; margin: auto;">
 
-Hello, my name is Mike Ditton, and I am currently embarking on an exciting journey as a system engineer apprentice within the esteemed IT department at Kanton Aargau. With a passion for technology that has been a driving force in my life from a very young age, I have eagerly embraced the opportunity to dive deep into the world of middleware.
+Hi there, my name is Mike, and I am currently on an exciting journey as a DevOps engineer. With a passion for technology that has been a driving force in my life from a very young age, I have eagerly embraced the opportunity to dive deep into the world of Kubernetes.
 
-Having been a part of this dynamic field for close to a year now, I've had the opportunity to contribute significantly to several projects. Notably, I played a crucial role in the development and deployment of the Kubernetes Platform as a Service (PaaS) project. This particular project was not only challenging but also immensely rewarding, as it allowed me to hone my skills and deepen my understanding of Kubernetes, an open-source system for automating deployment, scaling, and management of containerized applications.
+Having been a part of this dynamic field for 4 years now, I've had the opportunity to contribute significantly to several projects. Notably, I played a crucial role in the development and deployment of the Kubernetes Platform as a Service (PaaS) project. This particular project was not only challenging but also immensely rewarding, as it allowed me to hone my skills and deepen my understanding of Kubernetes, an open-source system for automating deployment, scaling, and management of containerized applications.
 Throughout this period, I've accumulated substantial experience with Kubernetes, mastering its intricacies and leveraging its capabilities to create robust, scalable solutions for our IT infrastructure. My involvement in this project has been a testament to my commitment to continuous learning and professional growth within the IT sector.
 
 From tinkering with computers as a child to taking on significant responsibilities in complex IT projects, information technology has always been a central part of my existence. I look forward to continuing my development as a system engineer apprentice and to making meaningful contributions to Kanton Aargau and the wider IT community.

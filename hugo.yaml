@@ -1,6 +1,7 @@
 baseURL: "https://mikeditton.ch"
 title: Mike Ditton
-paginate: 5
+pagination:
+  pagerSize: 5
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -135,6 +136,9 @@ pygmentsUseClasses: true
 markup:
   highlight:
     noClasses: false
+  goldmark:
+    renderer:
+      unsafe: true
     # anchorLineNos: true
     # codeFences: true
     # guessSyntax: true

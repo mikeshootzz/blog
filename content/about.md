@@ -36,6 +36,7 @@ editPost:
 ---
 
 <img src="/images/me.png" alt="Me" style="width: 50%; margin: auto;">
+<br>
 
 Hi there, my name is Mike, and I am currently on an exciting journey as a DevOps engineer. With a passion for technology that has been a driving force in my life from a very young age, I have eagerly embraced the opportunity to dive deep into the world of Kubernetes.
 

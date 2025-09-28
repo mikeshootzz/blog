@@ -73,7 +73,7 @@ params:
   homeInfoParams:
     Title: "Hi there 👋"
     Content: |
-      Welcome to my blog! I'm Mike Ditton, a system engineer apprentice with a passion for both the technical world of IT and the exhilarating game of baseball. Here, you'll find a unique blend of content that ranges from my professional insights into system engineering and middleware, to personal anecdotes from the outfield and beyond. Whether you're here for tech tips, to hear about my latest projects, or just to share in my journey as I explore the intricate dance of pitching, I'm glad you stopped by. Dive in and enjoy the stories, experiences, and lessons I've gathered along the way. Let's connect through the love of technology and sports!
+      Welcome to my blog! I'm Mike Ditton, a DevOps engineer with a passion for both the technical world of IT and the exhilarating game of baseball. Here, you'll find a unique blend of content that ranges from my professional insights, to personal anecdotes from the outfield and beyond. Whether you're here for tech tips, to hear about my latest projects, or just to share in my journey as I explore the intricate dance of pitching, I'm glad you stopped by. Dive in and enjoy the stories, experiences, and lessons I've gathered along the way. Let's connect through the love of technology and sports!
 
   socialIcons:
     - name: mastodon

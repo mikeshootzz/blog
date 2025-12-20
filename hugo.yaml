@@ -72,7 +72,6 @@ params:
     - name: github
       url: "https://github.com/mikeshootzz"
 
-
   cover:
     hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
@@ -103,9 +102,9 @@ menu:
       name: Projects
       url: /projects/
       weight: 20
-    - identifier: Tags
-      name: Tags
-      url: /tags/
+    - identifier: interests
+      name: Interests
+      url: /interests/
       weight: 30
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma

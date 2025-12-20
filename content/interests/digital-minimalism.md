@@ -2,7 +2,7 @@
 title: "Becoming a Digital Minimalist"
 date: 2024-09-03
 aliases: ["/digital-minimalism"]
-tags: ["minimalism", "projects"]
+tags: ["minimalism", "interests"]
 showToc: true
 draft: false
 searchHidden: true

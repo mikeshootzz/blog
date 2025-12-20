@@ -2,7 +2,7 @@
 title: "My EDC as a Digital Minimalist"
 date: 2024-12-05
 aliases: ["/edc-as-minimalist"]
-tags: ["minimalism", "projects"]
+tags: ["minimalism", "interests"]
 showToc: true
 draft: false
 searchHidden: true

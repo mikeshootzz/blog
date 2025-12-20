@@ -38,4 +38,4 @@ This is what got me into watches. Watches are an engineering masterpiece combine
 
 A watch can also be a lot more than just something that tells the time. I recently moved into my first own apartment and celebrated this life accomplishment with a new watch. This watch will forever remind me of the beginning of my independence. Every watch that I own has a story attached to it. I went through important steps of my life wearing my watches, and wearing a certain watch always reminds me of these moments. Every scratch has a meaning and is a testament of my life and how I live it.
 
-{{< figure src="/images/oris.webp" alt="Oris" caption="Oris Big Crown Pointer Date - My apartment watch" width="70%" >}}
+{{< figure src="/images/oris.webp" alt="Oris" caption="Oris Big Crown Pointer Date - Celebrating independence" width="70%" >}}

@@ -15,7 +15,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  mainSections: ["learning", "projects", "baseball"]
+  mainSections: ["learning", "projects", "baseball", "interests"]
   description: "DevOps engineer, baseball player, and digital minimalist sharing insights on technology and life."
   keywords: [Blog, Portfolio, PaperMod]
   author: Mike Ditton

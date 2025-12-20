@@ -1,35 +1,14 @@
 ---
 title: "My EDC as a Digital Minimalist"
 date: 2024-12-05
-weight: 1
 aliases: ["/edc-as-minimalist"]
 tags: ["minimalism", "projects"]
-author: "Mike Ditton"
 showToc: true
-TocOpen: false
 draft: false
-hidemeta: false
-comments: false
-disableHLJS: true # to disable highlightjs
-disableShare: false
-hideSummary: false
 searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 cover:
-    image: "/images/edc.webp" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
-editPost:
-    URL: https://github.com/mikeshootzz/blog/blob/main/content
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+    image: "/images/edc.webp"
+    hidden: true
 ---
 
 It’s been about four months since I embarked on my journey into digital minimalism, and I thought it was time to share some reflections and highlight the essential everyday carry (EDC) items that have become staples in my life. But first, let’s start by clarifying what digital minimalism truly means. According to Cal Newport, it’s described as:

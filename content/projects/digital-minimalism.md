@@ -1,35 +1,14 @@
 ---
 title: "Becoming a Digital Minimalist"
 date: 2024-09-03
-weight: 1
 aliases: ["/digital-minimalism"]
 tags: ["minimalism", "projects"]
-author: "Mike Ditton"
 showToc: true
-TocOpen: false
 draft: false
-hidemeta: false
-comments: false
-disableHLJS: true # to disable highlightjs
-disableShare: false
-hideSummary: false
 searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 cover:
-    image: "/images/digital-minimalism.jpg" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
-editPost:
-    URL: https://github.com/mikeshootzz/blog/blob/main/content
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+    image: "/images/digital-minimalism.jpg"
+    hidden: true
 ---
 
 Digital minimalism was never something I was aware of. When I was younger, I always wanted to have the latest devices. I used to spend close to 9 hours a day on my phone, mostly TikTok, of course. One day I stumbled upon a video from a YouTuber called "Reysu" about how to properly set up a journaling notebook. I was immediately intrigued and wanted to give journaling a shot. Being the nerd I am, I started researching pens and eventually found the "LAMY Safari" fountain pen. After falling into the pen rabbit hole and getting a Kuru Toga mechanical pencil, I began my journaling journey.

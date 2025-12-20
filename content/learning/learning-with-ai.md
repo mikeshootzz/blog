@@ -1,36 +1,11 @@
 ---
 title: "How I use AI as a Junior Engineer"
 date: 2025-09-28
-weight: 1
 aliases: ["/learning/using-ai-to-learn"]
 tags: ["AI", "learning"]
-author: "Mike Ditton"
 showToc: false
-TocOpen: false
 draft: false
-hidemeta: false
-comments: false
-canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
-disableShare: false
-hideSummary: false
 searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-cover:
-    image: "<image path/url" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
-editPost:
-    URL: https://github.com/mikeshootzz/blog/blob/main/content
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
 
 In August 2025, I started a new position as a junior DevOps engineer. This was my first "real" job after completing my apprenticeship. Having specialized in platform engineering, I had only briefly touched on software engineering. I learned the basics of object-oriented programming and could write simple hello world applications, but that was about it. I knew my new position would primarily involve writing code, which was largely new territory for me. So how does AI come into play here?

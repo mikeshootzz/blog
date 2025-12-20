@@ -16,14 +16,13 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   mainSections: ["learning", "projects", "baseball"]
-  title: ExampleSite
-  description: "ExampleSite description"
+  description: "DevOps engineer, baseball player, and digital minimalist sharing insights on technology and life."
   keywords: [Blog, Portfolio, PaperMod]
   author: Mike Ditton
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["/images/me.png"]
   DateFormat: "January 2, 2006"
-  defaultTheme: light # dark, light
+  defaultTheme: dark # dark, light
   disableThemeToggle: false
 
   ShowReadingTime: true
@@ -45,11 +44,6 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
 
   label:
     text: "Home"
@@ -59,17 +53,6 @@ params:
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: my image
-    buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
 
   # home-info mode
   homeInfoParams:
@@ -89,13 +72,6 @@ params:
     - name: github
       url: "https://github.com/mikeshootzz"
 
-  analytics:
-    google:
-      SiteVerificationTag: "XYZabc"
-    bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
-      SiteVerificationTag: "XYZabc"
 
   cover:
     hidden: true # hide everywhere but not in structured data

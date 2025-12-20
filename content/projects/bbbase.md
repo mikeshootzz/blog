@@ -1,36 +1,11 @@
 ---
 title: "BBBase"
 date: 2023-12-20
-weight: 1
 aliases: ["/bbbase"]
 tags: ["bbbase", "projects"]
-author: "Mike Ditton"
 showToc: true
-TocOpen: false
 draft: false
-hidemeta: false
-comments: false
-canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
-disableShare: false
-hideSummary: false
 searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
-editPost:
-    URL: https://github.com/mikeshootzz/blog/blob/main/content
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
 
 One of my favorite personal projects so far has been BBBase—a platform that embodies the spirit of collaboration and the open-source ethos, but for the invaluable currency of knowledge. Born out of a desire to foster a culture of sharing and growth among my peers, BBBase serves as a central hub for students at my professional school to exchange insights, resources, and expertise.

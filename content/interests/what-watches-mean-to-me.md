@@ -12,7 +12,7 @@ Wrist watches are a complicated and weird thing to grasp for a non-watch person.
 
 These are very valid points, and for most of them there is an objective answer. No one needs more than one wrist watch. No one should spend more than 50 bucks on a watch. The only point I would disagree on is: everyone should own a watch. A watch is a simple instrument that solves a single purpose—it tells you the time. You have no notifications, no distractions. You always know what time it is, and it helps you be mindful of how you spend your time.
 
-{{< figure src="/images/tudor.webp" alt="Tudor" caption="Tudor Black Bay 36 - In remembrance of my personal growth" width="70%" >}}
+{{< figure src="/images/tudor.webp" alt="Tudor" caption="Tudor Black Bay 36 - In remembrance of my personal growth. Tudor was founded as a sister brand of Rolex but has grown into its own characteristic brand." width="70%" >}}
 
 ## So what exactly is my relationship with watches?
 
@@ -24,7 +24,7 @@ Some of my favorite examples: I prefer driving a car without a screen in the mid
 
 I like having a watch I can rely on—a watch that does one thing and does it well. I used to own an Apple Watch. Don't get me wrong, an Apple Watch or any smartwatch is a great piece of technology. It serves a lot of uses, but just not for me. I don't want another source of distraction, another thing trying to waste my time. For me, this is kind of like the Linux philosophy: have a tool that does one thing and does it well.
 
-{{< figure src="/images/moon-swatch.webp" alt="Moon Swatch" caption="Omega x Swatch MoonSwatch Mission to Mars - First time traveling without my parents" width="70%" >}}
+{{< figure src="/images/moon-swatch.webp" alt="Moon Swatch" caption="Omega x Swatch MoonSwatch Mission to Mars - First time traveling without my parents. Even though I didn't travel to Mars." width="70%" >}}
 
 ## Why I prefer mechanical watches
 
@@ -38,4 +38,4 @@ This is what got me into watches. Watches are an engineering masterpiece combine
 
 A watch can also be a lot more than just something that tells the time. I recently moved into my first own apartment and celebrated this life accomplishment with a new watch. This watch will forever remind me of the beginning of my independence. Every watch that I own has a story attached to it. I went through important steps of my life wearing my watches, and wearing a certain watch always reminds me of these moments. Every scratch has a meaning and is a testament of my life and how I live it.
 
-{{< figure src="/images/oris.webp" alt="Oris" caption="Oris Big Crown Pointer Date - Celebrating independence" width="70%" >}}
+{{< figure src="/images/oris.webp" alt="Oris" caption="Oris Big Crown Pointer Date - Celebrating independence. Oris is one of only a few remaining independent watch brands in Switzerland." width="70%" >}}

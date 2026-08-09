@@ -10,5 +10,13 @@
       "datasourceTemplate": "github-releases",
       "extractVersionTemplate": "^v(?<version>.*)$"
     }
+  ],
+  "packageRules": [
+    {
+      "matchDepNames": ["gohugoio/hugo"],
+      "matchUpdateTypes": ["minor", "patch"],
+      "automerge": true,
+      "automergeType": "pr"
+    }
   ]
 }
